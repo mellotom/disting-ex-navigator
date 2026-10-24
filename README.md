@@ -7,4 +7,4 @@ travelers guide for navigating parallel worlds — a two-sheet navigator for the
 
 live: https://mellotom.github.io/disting-ex-navigator/ · pdf: `disting-ex-navigator.pdf` (dark) · `disting-ex-navigator-light.pdf`
 
-design homage to the house of x / powers of x data pages — designed by tom muller with jonathan hickman. not affiliated with expert sleepers or marvel. conceived by [mellotom](https://linktr.ee/mellotom).
+design homage to the [house of x / powers of x](https://www.marvel.com/comics/guides/1556/house-of-xpowers-of-x) data pages — designed by tom muller with jonathan hickman. not affiliated with expert sleepers or marvel. conceived by [mellotom](https://linktr.ee/mellotom).
