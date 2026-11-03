@@ -52,7 +52,7 @@ a{color:var(--cF2F2F2)}a:hover{color:var(--cE8912D)}
 .crop{position:absolute;width:22px;height:22px}
 @media print{.noprint{display:none !important}}
 button:focus-visible,a:focus-visible{outline:2px solid var(--cE8912D);outline-offset:2px}
-</style>
+.sbtn{font-family:'Roboto Mono',monospace;font-weight:700;font-size:9px;line-height:11px;height:13px;box-sizing:border-box;color:var(--cF2F2F2);text-decoration:none;border:1px solid var(--cF2F2F2);padding:0 4px;white-space:nowrap;margin:0 8px 0 6px;align-self:center}@media print{.sbtn{display:none}}</style>
 <style>
 html,body{margin:0;background:var(--c141416)}
 .frame{position:relative;overflow:hidden;background:var(--c141416);width:100vw;height:56.25vw}
@@ -333,13 +333,13 @@ html,body{margin:0;background:var(--c141416)}
 <div class="ej"><span class="el">default</span>[ l ] feedback · [ l ] push = tap tempo</div>
 </div>
 <div class="ent">
-<div class="eh"><span class="en">03</span><span class="et">sd multisample</span><span class="ec">sampler · poly</span></div>
+<div class="eh"><span class="en">03</span><span class="et">sd multisample</span><a class="sbtn" href="https://mellotom.github.io/disting-ex-sd-drums-navigator/">enter sd drums sector</a><span class="ec">sampler · poly</span></div>
 <div class="ed">eight-voice, three-part multitimbral wav instrument from the card. up to three cv/gate pairs (gate voltage = velocity, 5 v max) or midi / i2c. velocity layers, round robins, chords + arps, eq, delay, scala / mts tuning.</div>
 <div class="ej"><span class="el">jacks</span>in pitch / gate pairs 1–3 · out stereo · mono mix</div>
 <div class="ej"><span class="el">default</span>in 3 → sustain</div>
 </div>
 <div class="ent">
-<div class="eh"><span class="en">04</span><span class="et">sd 6 triggers</span><span class="ec">sampler · drums</span></div>
+<div class="eh"><span class="en">04</span><span class="et">sd 6 triggers</span><a class="sbtn" href="https://mellotom.github.io/disting-ex-sd-drums-navigator/">enter sd drums sector</a><span class="ec">sampler · drums</span></div>
 <div class="ed">six drum voices from the card, each with its own trigger and sample folder: a far more capable i-8. velocity-sensitive triggers, velocity layers and round robins per sample. also played by midi / i2c; an es-5 adds more outputs.</div>
 <div class="ej"><span class="el">jacks</span>in 1–6 trigger voices 1–6 · out assignable</div>
 <div class="ej"><span class="el">default</span>no default mappings</div>
